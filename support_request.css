@@ -1,0 +1,87 @@
+/* General Styles - Adapt these to your dashboard */
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #222;
+    color: #ddd;
+}
+
+.page-container {
+    padding: 20px;
+}
+
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.success {
+    color: green;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.errors {
+    color: red;
+    margin-bottom: 15px;
+}
+
+.errors li {
+    margin-bottom: 5px;
+}
+
+form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #292929;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #ccc;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group textarea,
+.form-group select {
+    display: block;
+    width: calc(100% - 22px);
+    padding: 10px;
+    border: 1px solid #555; /* Adjust border color here */
+    border-radius: 5px;
+    background-color: #333;
+    color: #ddd;
+    margin-top: 5px; /* Add margin-top for spacing */
+}
+
+.form-group select {
+    width: 100%;
+}
+
+.button-container {
+    text-align: center;
+}
+
+button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover { 
+    background-color: #45a049;
+}
