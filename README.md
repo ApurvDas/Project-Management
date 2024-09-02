@@ -9,27 +9,27 @@ Features
 Core Features:
 Project Creation
 Task Management
-Team Collaboration (comments, discussion threads, etc.)
 Centralized Dashboard
-Optional/Advanced Features (If Implemented):
 Calendar Integration
 File Sharing
 Time Tracking
 User Roles & Permissions
 Reporting
+
 Technologies Used
 
-Backend: PHP (or other server-side language)
-Database: MySQL (or other database)
+Backend: PHP 
+Database: MySQL 
 Frontend:
 HTML
 CSS
 JavaScript
-[Optional: JavaScript Framework - React, Angular, Vue.js, etc.]
+
+
 Installation
 
 Clone the repository: git clone https://github.com/Apurv Das/project-management-app.git
-Configure database connection (Update config.php / config1.php or similar file)
+Configure database connection (Update config.php)
 Run the development server: Xampp
 Usage
 
@@ -40,7 +40,7 @@ Outline how others can contribute to the project (bug fixes, feature suggestions
 
 License
 
-Specify the license under which your project is released (TechnoTask Bussiness Solutions)
+TechnoTask Bussiness Solutions
 
 Project Title: Project Management Web Application
 
