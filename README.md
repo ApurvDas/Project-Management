@@ -1,9 +1,5 @@
 Project Title: Project Management Web Application
 
-Overview
-
-Describe the primary purpose of your application in 1-2 sentences. Highlight its key benefits for users.
-
 Features
 
 Core Features:
